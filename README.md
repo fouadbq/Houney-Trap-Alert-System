@@ -36,10 +36,22 @@ py -m pip install -r requirements.txt
 ```bash
 cd 'HouneyTrap/The Houney Trap Exe files'
 ```
+<br/>
+In order to start the tool do as follows :<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  >Now first run the 'init.exe' file file to provide the necessary information (Email address, password, and the root directory from which the data encryption shall begin). This program shall be automatically deleted after fulfilling the required information, and a hidden file where this information is stored is created.<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #Now first run the 'init.exe' file file to provide the necessary information (Email address, password, and the root directory from which the data encryption shall begin). This program shall be automatically deleted after fulfilling the required information, and a hidden file where this information is stored is created.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  >Next create a folder Name it for instance 'My passwords' in some location of your choice.<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #Next create a folder Name it for instance 'My passwords' in some location of your choice. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  >Next, go to your defender settings and follow these steps :<br/>
+
+![image](https://user-images.githubusercontent.com/120426068/224514418-8cf104a6-035d-440a-b625-82d52610e68e.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![image](https://user-images.githubusercontent.com/120426068/224514308-a71bc2b9-075f-4adc-b819-4e70693eda8a.png)
 
 
 
+
+## Feedback
+
+If you have any feedback, please do reach out to me at fouadelbaqqaly@gmail.com
