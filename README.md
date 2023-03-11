@@ -25,13 +25,21 @@ Clone the project
   https://github.com/fouadbq/Houney-Trap-Alert-System.git
 ```
 
-Install the required packages on your local machine
+Install the required packages on your local machine 
 
 ```bash
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
+ Navigate to the directory where the houney trap package was installed in.
 
+```bash
+cd 'HouneyTrap/The Houney Trap Exe files'
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #Now first run the 'init.exe' file file to provide the necessary information (Email address, password, and the root directory from which the data encryption shall begin). This program shall be automatically deleted after fulfilling the required information, and a hidden file where this information is stored is created.\
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #Next create a folder Name it for instance 'My passwords' in some location of your choice. 
 
 
 
