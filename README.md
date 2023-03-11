@@ -44,10 +44,14 @@ In order to start the tool do as follows :<br/><br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  >Next, go to your defender settings and follow these steps :<br/>
 
-![image](https://user-images.githubusercontent.com/120426068/224514418-8cf104a6-035d-440a-b625-82d52610e68e.png)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![image](https://user-images.githubusercontent.com/120426068/224514308-a71bc2b9-075f-4adc-b819-4e70693eda8a.png)
+
+
+
+
+
 
 
 
