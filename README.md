@@ -15,9 +15,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  In addition to this feature, the program also includes another program that allows authorized users to recover the encrypted data using the decryption key that is transmitted along with the machine's coordinates. This ensures that only authorized users can access and recover the encrypted data.
 
+<br/>
 
+## Run Locally
 
-## Usage
+Clone the project
+
+```bash
+  git https://github.com/fouadbq/Files-integrity-monitor.git
+```
 
 
 
