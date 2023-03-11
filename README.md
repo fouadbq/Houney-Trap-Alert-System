@@ -49,6 +49,12 @@ https://www.elevenforum.com/t/add-or-remove-exclusions-for-microsoft-defender-an
 <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; >>This shall allow you to exclude the Houney trap tool from beeing deleted by the Windows defender.
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  >Finaly, exract the  'My passwords.rar' file 
+
+![image](https://user-images.githubusercontent.com/120426068/224515247-3c4ba21f-12a5-4913-bbb8-f524b80f0a1b.png)
+
 
 
 
