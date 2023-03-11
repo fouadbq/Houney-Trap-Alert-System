@@ -22,8 +22,15 @@
 Clone the project
 
 ```bash
-  git https://github.com/fouadbq/Files-integrity-monitor.git
+  https://github.com/fouadbq/Houney-Trap-Alert-System.git
 ```
+
+Install the required packages on your local machine
+
+```bash
+pip install -r requirements.txt
+```
+
 
 
 
