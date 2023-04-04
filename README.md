@@ -56,6 +56,9 @@ https://www.elevenforum.com/t/add-or-remove-exclusions-for-microsoft-defender-an
 ![image](https://user-images.githubusercontent.com/120426068/224515247-3c4ba21f-12a5-4913-bbb8-f524b80f0a1b.png)
 
 
+Note : Not finished  yet
+
+
 
 
 
