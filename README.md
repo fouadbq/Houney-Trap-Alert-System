@@ -11,7 +11,14 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This tool is meant to detect unwanted access and data breaches by creating a honey trap file disguised as a text file labeled "My passwords" that would deceive the attacker into opening the honey trap file, believing that it contains valuable credentials. When the file is opened, it triggers a program that encrypts the data and retrieves the machine's coordinates, including the country, city, and current IP address. The program then sends this information to the client's email address, which was provided during the startup process.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This tool is designed to protect against unauthorized access by creating a fake text file that appears to be a valuable document, such as a file labeled "My passwords." This deception is intended to trick potential attackers into opening the file, hoping to gain access to sensitive information.
+
+Once the fake file is opened, the tool triggers one of two scenarios, depending on the security mode specified by the user. In the first scenario, the tool continues to run in the background without the intruder's knowledge, while recording logs of their activity. This allows the user to monitor the attacker's actions and gain insight into their motives and methods.
+
+In the second scenario, the tool takes more aggressive action to protect the system. Specifically, it encrypts the system data, preventing the intruder from accessing any sensitive information or files. Additionally, it takes a snapshot of the system and transmits this data, along with the geolocation and current IP address, to a secure location. This provides valuable information that can be used to identify the attacker and take appropriate action to prevent future attacks.
+
+
+program that encrypts the data and retrieves the machine's coordinates, including the country, city, and current IP address. The program then sends this information to the client's email address, which was provided during the startup process.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  In addition to this feature, the program also includes another program that allows authorized users to recover the encrypted data using the decryption key that is transmitted along with the machine's coordinates. This ensures that only authorized users can access and recover the encrypted data.
 
